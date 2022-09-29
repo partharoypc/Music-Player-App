@@ -1,7 +1,6 @@
 # Music-Player-App
 ### This is a Music-Player-App Using Java Language for My Practice <br>
 
-
 <table>
   <tr>
     <td>First Screen Page</td>
